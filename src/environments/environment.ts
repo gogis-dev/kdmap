@@ -6,11 +6,11 @@ export const environment = {
   production: false,
   mapbox:{
     //online
-    //accessToken: 'pk.eyJ1IjoiZ29naXMiLCJhIjoiMTVjODAwYmIwNjkzYmVlMjU1YThkY2NmZDA5NGEzZTUifQ.n52cJfjcTtqXT5EWkMXgiQ'
+    accessToken: 'pk.eyJ1IjoiZ29naXMiLCJhIjoiMTVjODAwYmIwNjkzYmVlMjU1YThkY2NmZDA5NGEzZTUifQ.n52cJfjcTtqXT5EWkMXgiQ'
 
     //on-premise
-    accessToken: 'pk.eyJ1IjoiYXRsYXMtdXNlciIsImEiOiJja2txM3I4ZDUwMDAwMGdtOXExOXhrY2piIn0.35X0IWedbY7DOjUjIp8nVQ',
-    atlasUrl: 'http://localhost:2999'
+    //accessToken: 'pk.eyJ1IjoiYXRsYXMtdXNlciIsImEiOiJja2txM3I4ZDUwMDAwMGdtOXExOXhrY2piIn0.35X0IWedbY7DOjUjIp8nVQ',
+    //atlasUrl: 'http://localhost:2999'
   }
 };
 
